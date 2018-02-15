@@ -1,4 +1,4 @@
-package io.app.fabogo.util.adapterutils;
+package io.app.adwabh;
 
 import android.support.annotation.IntDef;
 import android.support.v7.widget.RecyclerView;
@@ -8,10 +8,10 @@ import android.view.ViewGroup;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
-import static io.app.fabogo.util.adapterutils.HeaderLoadMoreAdapter.VIEW_TYPE.CELL;
-import static io.app.fabogo.util.adapterutils.HeaderLoadMoreAdapter.VIEW_TYPE.HEADER;
-import static io.app.fabogo.util.adapterutils.HeaderLoadMoreAdapter.VIEW_TYPE.LOADER;
-import static io.app.fabogo.util.adapterutils.HeaderLoadMoreAdapter.VIEW_TYPE.ERROR;
+import static io.app.adwabh.HeaderLoadMoreAdapter.VIEW_TYPE.CELL;
+import static io.app.adwabh.HeaderLoadMoreAdapter.VIEW_TYPE.HEADER;
+import static io.app.adwabh.HeaderLoadMoreAdapter.VIEW_TYPE.LOADER;
+import static io.app.adwabh.HeaderLoadMoreAdapter.VIEW_TYPE.ERROR;
 
 
 /**
